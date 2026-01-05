@@ -21,8 +21,7 @@ and **Transport Layer Security (TLS)**.
 - Applying basic network security measures and validation  
 - Demonstrating secure communication through encrypted traffic  
 
-**Deliverable:**  
-- A detailed PDF report documenting the implementation and verification process  
+**Deliverable:** A detailed PDF report documenting the implementation and verification process  
 
 ---
 
@@ -36,8 +35,7 @@ and **Privacy Policies** within an IT-related service domain.
 - Identifying risks, limitations, and unfair practices  
 - Presenting findings in a concise academic poster format  
 
-**Deliverable:**  
-- A research poster summarizing the analysis and conclusions  
+**Deliverable:** A research poster summarizing the analysis and conclusions  
 
 ---
 
@@ -54,8 +52,7 @@ This project examines a real-world ethical dilemma related to computing and netw
   - Web 2.0 Ethical Decision-Making Principles  
 - Justification, criticism, and defense of the ethical decision  
 
-**Deliverable:**  
-- An analytical report presenting structured ethical reasoning  
+**Deliverable:** An analytical report presenting structured ethical reasoning  
 
 ---
 
