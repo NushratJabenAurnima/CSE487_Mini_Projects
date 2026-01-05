@@ -25,7 +25,7 @@ The project focuses on building a trusted PKI hierarchy, configuring secure HTTP
 - Generated server private key and Certificate Signing Request (CSR)
 - Signed the server certificate using the Intermediate CA
 - Built and verified the complete certificate chain  
-📸 *(Screenshot required: Certificate chain verification)*
+  ![Certificate Chain Verification](./Certificate%20chain%20verification.png)
 
 ---
 
@@ -33,14 +33,14 @@ The project focuses on building a trusted PKI hierarchy, configuring secure HTTP
 - Enabled SSL/TLS modules
 - Configured Apache to use the server certificate, private key, and CA chain
 - Verified secure HTTPS access via browser  
-📸 *(Screenshot required: Browser HTTPS padlock)*
+  ![Browser HTTPS Padlock](./Browser%20HTTPS%20padlock.png)
 
 ---
 
 ### 🧭 DNS Configuration (bind9)
 - Configured forward DNS zone for `www.verysecureserver.com`
 - Verified domain resolution using `nslookup` / `dig`  
-📸 *(Screenshot required: DNS resolution output)*
+ ![DNS Resolution](./DNS%20resolution%20output.png)
 
 ---
 
@@ -51,16 +51,12 @@ The project focuses on building a trusted PKI hierarchy, configuring secure HTTP
   - **80** (HTTP)
   - **443** (HTTPS)
 - Verified firewall rules using `ufw status`  
-📸 *(Optional screenshot: UFW status)*
-
 ---
 
 ### 🚨 Intrusion Detection System (Snort)
 - Configured `HOME_NET`
 - Enabled alert logging
 - Implemented and tested a basic local Snort rule  
-📸 *(Optional screenshot: Snort alert log)*
-
 ---
 
 ## 🔍 Security Validation
@@ -68,8 +64,6 @@ The project focuses on building a trusted PKI hierarchy, configuring secure HTTP
 - Captured TLS handshake and verified encrypted application data using Wireshark  
 📸 *(Screenshot required: Wireshark TLS traffic)*
 - Revoked the server certificate and confirmed trust failure in browser  
-📸 *(Optional screenshot: Certificate revocation warning)*
-
 ---
 
 ## 🧰 Tools & Environment
@@ -95,7 +89,7 @@ The project focuses on building a trusted PKI hierarchy, configuring secure HTTP
 
 ---
 
-## 👥 Team — Group 1
+## 👥 Collaboration
 - Nusrat Jaben Aurnima  
 - Zihad Khan  
 - Shairin Akter Hashi  
