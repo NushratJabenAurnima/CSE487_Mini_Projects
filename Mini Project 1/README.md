@@ -62,7 +62,7 @@ The project focuses on building a trusted PKI hierarchy, configuring secure HTTP
 ## 🔍 Security Validation
 - Inspected certificate details and trust chain in browser
 - Captured TLS handshake and verified encrypted application data using Wireshark  
-![Browser HTTPS Padlock](./Browser%20HTTPS%20padlock.png)
+![Wireshark TCP Stream](./Wireshark%20TCP%20Stream.png)
 - Revoked the server certificate and confirmed trust failure in browser  
 ---
 
