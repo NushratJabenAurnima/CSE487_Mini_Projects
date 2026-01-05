@@ -68,18 +68,26 @@ The work focuses on building a trusted PKI hierarchy, configuring secure HTTPS c
 ---
 
 ## 🧰 Tools & Environment
-Ubuntu (Virtual Machine) · OpenSSL · Apache/XAMPP · bind9 · UFW · Snort · Wireshark · Firefox
+- Ubuntu (Virtual Machine)
+- OpenSSL
+- Apache / XAMPP
+- bind9
+- UFW
+- Snort
+- Wireshark
+- Firefox
 
 ---
 
 ## ✅ Verification Checklist
-- [ ] Domain resolves correctly via DNS  
-- [ ] HTTPS loads with a valid TLS certificate  
-- [ ] Certificate chain verified (Server → Intermediate → Root)  
-- [ ] Firewall restricts inbound traffic to required ports only  
-- [ ] Snort generates alerts for defined rules  
-- [ ] TLS traffic confirmed as encrypted in Wireshark  
-- [ ] Certificate revocation invalidates trust successfully  
+- [x] Domain resolves correctly via DNS
+- [x] HTTPS loads with a valid TLS certificate
+- [x] Certificate chain verified (Server → Intermediate → Root)
+- [x] Firewall restricts inbound traffic to required ports only
+- [x] Snort generates alerts for defined rules
+- [x] TLS traffic confirmed as encrypted in Wireshark
+- [x] Certificate revocation invalidates trust as expected
+
 
 ---
 
