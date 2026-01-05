@@ -99,8 +99,3 @@ Full team list is available in the main repository README.
 ## 🔒 Security Notice
 Private keys, passphrases, and sensitive certificate materials are not included in this repository.  
 All secret files (e.g., `*.key`) are excluded using `.gitignore` and stored securely offline.
-
----
-
-## 📌 Notes
-This project is intended for educational and academic purposes to demonstrate foundational concepts of PKI, TLS, and secure web communication.
