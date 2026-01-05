@@ -98,7 +98,4 @@ Each criticism is systematically defended using ethical reasoning and profession
 
 ## 📄 Project Report
 
-The complete analysis, including ethical reasoning, stakeholder discussion, criticism, and conclusion, is available in the following PDF:
-
-📄 **`487_MP3_Group1.pdf`**  
-:contentReference[oaicite:0]{index=0}
+The complete analysis, including ethical reasoning, stakeholder discussion, criticism, and conclusion, is available in the PDF.
