@@ -90,12 +90,7 @@ The project focuses on building a trusted PKI hierarchy, configuring secure HTTP
 ---
 
 ## 👥 Collaboration
-- Nusrat Jaben Aurnima  
-- Zihad Khan  
-- Shairin Akter Hashi  
-- Tahmina Ahmed  
-- MD Shahrukh Hossain Shihab  
-
+  Full team list is available in the main repository README.
 ---
 
 ## 🔒 Security Notice
