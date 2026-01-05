@@ -74,7 +74,7 @@ The project focuses on building a trusted PKI hierarchy, configuring secure HTTP
 - UFW
 - Snort
 - Wireshark
-- Firefox / Chromium
+- Firefox 
 
 ---
 
