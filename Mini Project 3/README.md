@@ -93,9 +93,3 @@ The report addresses key criticisms such as:
 - High operational costs of ethical compliance  
 
 Each criticism is systematically defended using ethical reasoning and professional standards.
-
----
-
-## 📄 Project Report
-
-The complete analysis, including ethical reasoning, stakeholder discussion, criticism, and conclusion, is available in the PDF.
